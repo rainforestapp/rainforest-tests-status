@@ -1,0 +1,17 @@
+{
+  "name": "rainforest-tests-status",
+  "repo": "rainforestapp/rainforest-tests-status",
+  "description": "Tests status component for RainforestQA users",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "styles": [
+    "rainforest-build-status.css"
+  ]
+}
