@@ -4,14 +4,19 @@
   "description": "Tests status component for RainforestQA users",
   "version": "0.0.1",
   "keywords": [],
-  "dependencies": {},
+  "dependencies": {
+    "yields/unserialize": "*",
+    "visionmedia/superagent": "*",
+    "ianstormtaylor/is-empty": "*",
+    "component/reactive": "*"
+  },
   "development": {},
   "license": "MIT",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": [
-    "index.js"
+    "lib/index.js"
   ],
   "styles": [
-    "rainforest-build-status.css"
+    "lib/rainforest-tests-status.css"
   ]
 }
