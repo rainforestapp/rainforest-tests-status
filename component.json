@@ -7,6 +7,9 @@
   "dependencies": {
     "yields/unserialize": "*",
     "visionmedia/superagent": "*",
+    "component/emitter": "*",
+    "component/map": "*",
+    "component/indexof": "*",
     "ianstormtaylor/is-empty": "*",
     "component/reactive": "*"
   },
